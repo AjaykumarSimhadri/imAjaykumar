@@ -9,4 +9,4 @@ An Electrical and Electronics Engineer graduated in Twenty20Two >> || Some techn
 - Sharing updates on <a href="https://www.linkedin.com/in/ajaykumarsimhadri/">LinkedIn</a> 💼
 - Trend with <a href="https://www.instagram.com/ajaykumar_8080/"> Instagram</a> 🎹
 - Ping me in <a href="https://in.pinterest.com/aajuabhi8080/"> Pinterest</a> 📌
-- Dive with <a href="https://www.reddit.com/user/Majestic-Tower-6536"> Reddit</a> 🧧
+                     - Dive with <a href="https://www.reddit.com/user/Majestic-Tower-6536"> Reddit</a> 🧧
