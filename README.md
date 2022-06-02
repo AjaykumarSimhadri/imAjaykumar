@@ -1,7 +1,7 @@
 # Hi, I'm Ajay Kumar Simhadri 👋🏻 👨🏻‍💻 
 
 <img src="Ajay_github_logo.gif" alt="banner that says Ajay Kumar Simhadri - Electrical Enginner, Content Creator, Data Analyst, Web Developer">
-An Electrical and Electronics Engineer graduated in Twenty20Two, currently working on Wipro as a Project Engineer 🧑🏻‍🔬>> || Some technologies I enjoy working with include MATLAB, django, ML, Python, R programming and ETL developer, data Analyst, Linux Administrator, Django developer.
+An Electrical and Electronics Engineer graduated in Twenty20Two, currently working on Wipro as a Project Engineer 🧑🏻‍🔬>> || Some technologies I enjoy working with include MATLAB, django, ML, Python, R programming, SQL, PL/SQL and ETL developer, data Analyst, Linux Administrator, Django developer.
 
 ## Find me around the web 🌎: <a href="https://github.com/AjaykumarSimhadri/imAjaykumar"><img align="left" width="150" height="150" src="Ajay-Github.png"></a>
 
